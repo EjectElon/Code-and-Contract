@@ -16,20 +16,32 @@ Pre-sale token lock: 75% of the pre-sale will be add to liquidity and locked by 
 
 
 • Token name: EjectElon
+
 • Token symboy: $EJECT
+
 • Token Contract: https://bscscan.com/address/0x2d43Dfe648Bb8C9c22f9FFcD1937369a9Fdd0eBc
+
 • Total Supply: 100,000,000,000,000,000 $SW
 
 
 TOKEN DISTRIBUTION
 
 Private Sale: 20% -- 20,000T
+
 Pre-Sale: 40% -- 40,000T
+
 Locked in LP 30% -- 30,000T 
+
 DxSale Fees: 0.8% ---  800T 
+
 Foundation: 5% -- 5000T
+
 Bounty and airdrop: 1,2% - 1200T 
+
 Telegram shilling campaign: 0.5% - 500T
+
 Reddit shilling campaign: 0.25% - 250T 
+
 Twitter shilling campaign: 0.25% - 250T 
+
 Burn: Remaining Supply (undistributed) 3% - 3,000T  + What is left from all Shilling campaigns
